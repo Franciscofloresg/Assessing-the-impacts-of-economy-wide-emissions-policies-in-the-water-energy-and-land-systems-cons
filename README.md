@@ -3,18 +3,18 @@ This repository contain the supplemental material related to the paper titled "A
 
 ## Available data.
 
-1. Primary energy:
+1. Primary energy.
 
-2. Electricity:
+2. Electricity.
 
-3. Final energy use:
+3. Final energy use.
 
-4. Land allocation water:
+4. Land allocation water.
 
-5. Land use:
+5. Land use.
 
-6. Electricity generation grid:
+6. Electricity generation grid.
 
-7. Water Withdrawal:
+7. Water Withdrawal.
 
 
