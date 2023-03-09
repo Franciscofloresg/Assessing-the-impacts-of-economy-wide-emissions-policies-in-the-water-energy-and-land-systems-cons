@@ -3,9 +3,9 @@ This repository contain the supplemental material related to the paper titled "A
 
 ## Available data.
 
-1. Primary energy. [a link](https://github.com/user/repo/blob/branch/other_file.md)
+1. Primary energy. 
 
-2. Electricity.
+2. Electricity. [(Link)](Data_Paper/Data_Electricity_Generation.csv)
 
 3. Final energy use.
 
