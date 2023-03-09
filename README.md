@@ -4,3 +4,7 @@ This repository contain the supplemental material related to the paper titled "A
 ## Data description
 
 * Data emissions:
+
+* Data Electricity:
+
+* Data Land use:
