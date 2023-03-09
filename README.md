@@ -3,8 +3,8 @@ This repository contain the supplemental material related to the paper titled "A
 
 ## Data description
 
-* Data emissions:
+1. Data emissions:
 
-* Data Electricity:
+2. Data Electricity:
 
-* Data Land use:
+3. Data Land use:
