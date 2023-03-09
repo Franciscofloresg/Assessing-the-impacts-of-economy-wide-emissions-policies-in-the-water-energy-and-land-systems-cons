@@ -3,7 +3,7 @@ This repository contain the supplemental material related to the paper titled "A
 
 ## Available data.
 
-1. Primary energy.
+1. Primary energy. [a link](https://github.com/user/repo/blob/branch/other_file.md)
 
 2. Electricity.
 
