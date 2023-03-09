@@ -3,7 +3,7 @@ This repository contain the supplemental material related to the paper titled "A
 
 ## Available data.
 
-1. Primary energy. [(Link)](Data_Paper/Data_Paper/Data_Primary_Energy.csv)
+1. Primary energy. [(Link)](Data_Paper/Data_Primary_Energy.csv)
 
 2. Electricity. [(Link)](Data_Paper/Data_Electricity_Generation.csv)
 
