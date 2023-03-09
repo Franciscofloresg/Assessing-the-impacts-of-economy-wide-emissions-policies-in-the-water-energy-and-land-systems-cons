@@ -3,7 +3,7 @@ This repository contain the supplemental material related to the paper titled "A
 
 ## Data description
 
-1. Data emissions:
+1. Data Primary energy:
 
 2. Data Electricity:
 
